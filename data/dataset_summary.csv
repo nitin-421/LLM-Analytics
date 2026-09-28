@@ -1,0 +1,4 @@
+dataset,rows,columns,success_rate_%,total_cost_usd
+llm_usage1.csv,3000,8,97.87,19.02
+llm_usage2.csv,3000,8,99.07,8.34
+llm_usage3.csv,3000,8,89.93,30.66
